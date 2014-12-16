@@ -62,6 +62,7 @@ GEM
     xmpp4r (0.5.6)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES

@@ -1,3 +1,6 @@
 chat.log
-local_env.yml
-.idea/
+dump.rdb
+config.yml
+vendor/**
+.ruby-version
+.ruby-gems
